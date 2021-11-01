@@ -1,0 +1,3 @@
+[submodule "twitter-clone-app"]
+	path = twitter-clone-app
+	url = https://github.com/thien2218/twitter-clone-app.git
